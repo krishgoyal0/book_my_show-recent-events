@@ -180,7 +180,7 @@ def scrape_events() -> Optional[List[Dict[str, Any]]]:
                             if not name:
                                 continue
 
-                            url = "https://in.bookmyshow.com" + card.get_attribute("href") if card.get_attribute("href") else "N/A"
+                            url = " " + card.get_attribute("href") if card.get_attribute("href") else "N/A"
                             
                             # Skip duplicates
                             if url in seen_urls:
