@@ -2,100 +2,96 @@
 === Event Comparison Results ===
 Old file: 14 events
 New file: 32 events
-Comparison time: 2025-06-03 16:32:18
+Comparison time: 2025-06-03 17:44:55
 
-Newly added events (19):
-- Daily Ka Kaam Hai By Aakash Gupta
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/excuse-me-brother-standup-solo-by-aakash-gupta/ET00347268
-- KAL KI CHINTA NHI KARTA FT. RAVI GUPTA
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kal-ki-chinta-nhi-karta-ft-ravi-gupta/ET00439601
+Newly added events (18):
+- Nayab Midha Live
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/the-nayab-show-ft-nayab-midha/ET00371345
 - Bismil Ki Mehfil 2025 - Delhi
   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/bismil-ki-mehfil-2025-delhi/ET00443289
-- Alien World at Airia Mall
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/alien-world-at-airia-mall/ET00445888
-- Pottery Date
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/pottery-date/ET00370222
+- KidZania Delhi
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kidzania-delhi-tickets/ET00042240
 - Rambo Circus - Delhi
   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/rambo-circus/ET00332998
-- Urooj Ashfaq's It's Funny To Me
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/urooj-ashfaq-s-it-s-funny-to-me/ET00423479
-- Rajat Chauhan Live
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/college-to-corporate-trial-stand-up-comedy/ET00349398
-- PREMIUM ROY by Shreya Priyam Roy
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/premium-roy-by-shreya-priyam-roy/ET00336526
-- Speed dating
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/speed-dating/ET00412881
-- One Night StandUp - Standup comedy
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/all-is-well-standup-comedy/ET00400767
-- Noida Comedy Carnival
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/noida-comedy-carnival/ET00408304
-- PREMIUM ROY by Shreya Priyam
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/premium-roy-by-shreya-priyam/ET00388260
-- FUNKY ISLAND - NETAJI SUBHASH PALACE
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/funky-island-netaji-subhash-palace/ET00441211
-- Telling Lies -A Standup Solo by Aashish Solanki
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/aashish-solanki-live/ET00447106
+- Paint with Puppies by Barket
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/valentine-s-special-paint-with-puppies-kittens/ET00432354
+- Hamleys Play - WorldMark Gurgaon
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/hamleys-worldmark-gurgaon/ET00343842
+- Kids Fest
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kids-fest/ET00443854
+- Girish And The Chronicles (Originals & Covers)
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/girish-and-the-chronicles-originals-covers/ET00447177
 - Comedy Nights Noida
   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/comedy-nights-noida/ET00407257
-- Crowd-Work Show by Manhar Seth
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/crowd-work-by-manhar-seth/ET00373919
-- Dhyan Sangeet Meditation Program: New Delhi
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/dhyan-sangeet-meditation-program-new-delhi/ET00445995
+- Pottery Workshop
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/pottery-workshop/ET00443207
+- KAL KI CHINTA NHI KARTA FT. RAVI GUPTA
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kal-ki-chinta-nhi-karta-ft-ravi-gupta/ET00439601
+- Daily Ka Kaam Hai By Aakash Gupta
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/excuse-me-brother-standup-solo-by-aakash-gupta/ET00347268
+- A NIGHT OF LAUGHTER FT GAURAV GUPTA
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/a-night-of-laughter-ft-gaurav-gupta/ET00400535
+- Ravi Gupta Live : Birch Noida
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/ravi-gupta-live-birch-noida/ET00446633
 - South Side Samurai by Nirmal Pillai
   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/south-side-samurai-by-nirmal-pillai/ET00443436
+- SONU NIGAM LIVE IN CONCERT GURUGRAM
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/sonu-nigam-live-in-concert-gurugram/ET00439782
+- Banger Issues ft. Kaustubh Aggarwal
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/banger-issues-ft-kaustubh-aggarwal/ET00445762
+- Telling Lies -A Standup Solo by Aashish Solanki
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/aashish-solanki-live/ET00447106
 
-Removed events (1):
-- PS - I Love You By Pranav Sharma
-  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533
+Removed events (0):
 
 === New Events Summary ===
 
-1. Daily Ka Kaam Hai By Aakash Gupta
+1. Nayab Midha Live
    Venue: N/A
    Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/excuse-me-brother-standup-solo-by-aakash-gupta/ET00347268
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/the-nayab-show-ft-nayab-midha/ET00371345
 
-2. KAL KI CHINTA NHI KARTA FT. RAVI GUPTA
-   Venue: N/A
-   Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kal-ki-chinta-nhi-karta-ft-ravi-gupta/ET00439601
-
-3. Bismil Ki Mehfil 2025 - Delhi
+2. Bismil Ki Mehfil 2025 - Delhi
    Venue: N/A
    Date: N/A
    URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/bismil-ki-mehfil-2025-delhi/ET00443289
 
-4. Alien World at Airia Mall
+3. KidZania Delhi
    Venue: N/A
    Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/alien-world-at-airia-mall/ET00445888
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kidzania-delhi-tickets/ET00042240
 
-5. Pottery Date
-   Venue: N/A
-   Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/pottery-date/ET00370222
-
-6. Rambo Circus - Delhi
+4. Rambo Circus - Delhi
    Venue: N/A
    Date: N/A
    URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/rambo-circus/ET00332998
 
-7. Urooj Ashfaq's It's Funny To Me
+5. Paint with Puppies by Barket
    Venue: N/A
    Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/urooj-ashfaq-s-it-s-funny-to-me/ET00423479
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/valentine-s-special-paint-with-puppies-kittens/ET00432354
 
-8. Rajat Chauhan Live
+6. Hamleys Play - WorldMark Gurgaon
    Venue: N/A
    Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/college-to-corporate-trial-stand-up-comedy/ET00349398
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/hamleys-worldmark-gurgaon/ET00343842
 
-9. PREMIUM ROY by Shreya Priyam Roy
+7. Kids Fest
    Venue: N/A
    Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/premium-roy-by-shreya-priyam-roy/ET00336526
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kids-fest/ET00443854
 
-10. Speed dating
+8. Girish And The Chronicles (Originals & Covers)
    Venue: N/A
    Date: N/A
-   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/speed-dating/ET00412881
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/girish-and-the-chronicles-originals-covers/ET00447177
+
+9. Comedy Nights Noida
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/comedy-nights-noida/ET00407257
+
+10. Pottery Workshop
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/pottery-workshop/ET00443207
