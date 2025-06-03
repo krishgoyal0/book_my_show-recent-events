@@ -1,0 +1,101 @@
+
+=== Event Comparison Results ===
+Old file: 14 events
+New file: 32 events
+Comparison time: 2025-06-03 16:32:18
+
+Newly added events (19):
+- Daily Ka Kaam Hai By Aakash Gupta
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/excuse-me-brother-standup-solo-by-aakash-gupta/ET00347268
+- KAL KI CHINTA NHI KARTA FT. RAVI GUPTA
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kal-ki-chinta-nhi-karta-ft-ravi-gupta/ET00439601
+- Bismil Ki Mehfil 2025 - Delhi
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/bismil-ki-mehfil-2025-delhi/ET00443289
+- Alien World at Airia Mall
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/alien-world-at-airia-mall/ET00445888
+- Pottery Date
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/pottery-date/ET00370222
+- Rambo Circus - Delhi
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/rambo-circus/ET00332998
+- Urooj Ashfaq's It's Funny To Me
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/urooj-ashfaq-s-it-s-funny-to-me/ET00423479
+- Rajat Chauhan Live
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/college-to-corporate-trial-stand-up-comedy/ET00349398
+- PREMIUM ROY by Shreya Priyam Roy
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/premium-roy-by-shreya-priyam-roy/ET00336526
+- Speed dating
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/speed-dating/ET00412881
+- One Night StandUp - Standup comedy
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/all-is-well-standup-comedy/ET00400767
+- Noida Comedy Carnival
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/noida-comedy-carnival/ET00408304
+- PREMIUM ROY by Shreya Priyam
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/premium-roy-by-shreya-priyam/ET00388260
+- FUNKY ISLAND - NETAJI SUBHASH PALACE
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/funky-island-netaji-subhash-palace/ET00441211
+- Telling Lies -A Standup Solo by Aashish Solanki
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/aashish-solanki-live/ET00447106
+- Comedy Nights Noida
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/comedy-nights-noida/ET00407257
+- Crowd-Work Show by Manhar Seth
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/crowd-work-by-manhar-seth/ET00373919
+- Dhyan Sangeet Meditation Program: New Delhi
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/dhyan-sangeet-meditation-program-new-delhi/ET00445995
+- South Side Samurai by Nirmal Pillai
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/south-side-samurai-by-nirmal-pillai/ET00443436
+
+Removed events (1):
+- PS - I Love You By Pranav Sharma
+  URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/taaza-phool-ft-pranav-sharma/ET00408533
+
+=== New Events Summary ===
+
+1. Daily Ka Kaam Hai By Aakash Gupta
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/excuse-me-brother-standup-solo-by-aakash-gupta/ET00347268
+
+2. KAL KI CHINTA NHI KARTA FT. RAVI GUPTA
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/kal-ki-chinta-nhi-karta-ft-ravi-gupta/ET00439601
+
+3. Bismil Ki Mehfil 2025 - Delhi
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/bismil-ki-mehfil-2025-delhi/ET00443289
+
+4. Alien World at Airia Mall
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/alien-world-at-airia-mall/ET00445888
+
+5. Pottery Date
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/pottery-date/ET00370222
+
+6. Rambo Circus - Delhi
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/rambo-circus/ET00332998
+
+7. Urooj Ashfaq's It's Funny To Me
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/urooj-ashfaq-s-it-s-funny-to-me/ET00423479
+
+8. Rajat Chauhan Live
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/college-to-corporate-trial-stand-up-comedy/ET00349398
+
+9. PREMIUM ROY by Shreya Priyam Roy
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/premium-roy-by-shreya-priyam-roy/ET00336526
+
+10. Speed dating
+   Venue: N/A
+   Date: N/A
+   URL: https://in.bookmyshow.comhttps://in.bookmyshow.com/events/speed-dating/ET00412881
