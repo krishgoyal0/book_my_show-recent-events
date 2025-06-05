@@ -1,0 +1,56 @@
+
+=== Event Comparison Results ===
+Old file: 32 events
+New file: 32 events
+Comparison time: 2025-06-06 00:28:11
+
+Newly added events (5):
+- Swiftchella - A Taylor Swift-Themed Fan Party
+  URL:  https://in.bookmyshow.com/events/swiftchella-a-taylor-swift-themed-fan-party/ET00441036
+- Comedy Nights @Comedy County
+  URL:  https://in.bookmyshow.com/events/comedy-nights-comedy-county/ET00446925
+- Adult Standup Comedy Show
+  URL:  https://in.bookmyshow.com/events/adult-standup-comedy-show/ET00440230
+- Banger Issues ft. Kaustubh Aggarwal
+  URL:  https://in.bookmyshow.com/events/banger-issues-ft-kaustubh-aggarwal/ET00445762
+- Best of Stand-up - Stand-up Comedy Show
+  URL:  https://in.bookmyshow.com/events/best-of-standup-inder-shreya-kd/ET00358274
+
+Removed events (5):
+- South Side Samurai by Nirmal Pillai
+  URL:  https://in.bookmyshow.com/events/south-side-samurai-by-nirmal-pillai/ET00443436
+- Room XO Presents Lil Pump
+  URL:  https://in.bookmyshow.com/events/room-xo-presents-lil-pump/ET00445847
+- Blind Date
+  URL:  https://in.bookmyshow.com/events/blindfolded-conversations/ET00361919
+- Kids Fest
+  URL:  https://in.bookmyshow.com/events/kids-fest/ET00443854
+- Halki Halki Fati? By Vikas Kush Sharma
+  URL:  https://in.bookmyshow.com/events/halki-halki-fati-by-vikas-kush-sharma/ET00407605
+
+=== New Events Summary ===
+
+1. Swiftchella - A Taylor Swift-Themed Fan Party
+   Venue: N/A
+   Date: N/A
+   URL:  https://in.bookmyshow.com/events/swiftchella-a-taylor-swift-themed-fan-party/ET00441036
+
+2. Comedy Nights @Comedy County
+   Venue: N/A
+   Date: N/A
+   URL:  https://in.bookmyshow.com/events/comedy-nights-comedy-county/ET00446925
+
+3. Adult Standup Comedy Show
+   Venue: N/A
+   Date: N/A
+   URL:  https://in.bookmyshow.com/events/adult-standup-comedy-show/ET00440230
+
+4. Banger Issues ft. Kaustubh Aggarwal
+   Venue: N/A
+   Date: N/A
+   URL:  https://in.bookmyshow.com/events/banger-issues-ft-kaustubh-aggarwal/ET00445762
+
+5. Best of Stand-up - Stand-up Comedy Show
+   Venue: N/A
+   Date: N/A
+   URL:  https://in.bookmyshow.com/events/best-of-standup-inder-shreya-kd/ET00358274
